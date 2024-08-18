@@ -2,7 +2,6 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Refers to computer science segment that deals with the design, development, testing and maintenance of software application.
 - provides ways of managing resources
@@ -10,7 +9,6 @@ Refers to computer science segment that deals with the design, development, test
 - Enhance teamwork
 - serves as a vital link between businesses and technology
 - Drives business efficiency
-  
 Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Structured Programming (1960s-1970s)
 •	Overview: Structured programming emerged in the 1960s as a response to the increasing complexity of software systems. Before this, programs were often written in an unstructured, "spaghetti code" style, making them difficult to understand, debug, and maintain.
@@ -21,7 +19,6 @@ The Advent of Object-Oriented Programming (OOP) (1980s)
 The Rise of Agile Methodologies (2000s)
 •	Overview: Agile methodologies emerged in the early 2000s as a reaction to the rigid, linear approaches like the Waterfall model. Agile promotes iterative development, customer collaboration, and flexibility, aiming to deliver high-quality software quickly and adapt to changing requirements.
 •	Key Developments: The Agile Manifesto, published in 2001, formalized this approach, emphasizing individuals and interactions over processes and tools, working software over comprehensive documentation, and customer collaboration over contract negotiation. Scrum, Kanban, and Extreme Programming (XP) are some popular Agile frameworks.
-
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement Gathering and Analysis
 Overview: This phase involves understanding and documenting what the software should do. Stakeholders, including clients and end-users, are consulted to gather requirements, which are then analyzed for feasibility.
@@ -78,7 +75,6 @@ Agile: Lighter on documentation, with more focus on working software and less fo
 Example Scenarios:
 Waterfall Example: Developing software for a spacecraft’s navigation system, where the requirements are fixed, and any changes could be extremely costly and dangerous.
 Agile Example: Building a new e-commerce platform where customer needs and market trends may change rapidly, requiring frequent updates and new features based on user feedback.
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer
 Roles and Responsibilities:
@@ -102,7 +98,6 @@ Risk Management: They identify potential risks that could impact the project’s
 Stakeholder Communication: Project managers are responsible for keeping stakeholders informed about the project’s progress, challenges, and changes. They provide regular updates, manage expectations, and ensure that stakeholders’ needs and concerns are addressed.
 Budget and Resource Management: They manage the project’s budget, ensuring that resources are allocated efficiently and costs are kept within the agreed limits. This includes managing team members, tools, and any external resources needed for the project.
 Quality and Scope Management: The project manager ensures that the project meets the required quality standards and that the scope of the project is adhered to. They manage scope changes and ensure that any adjustments are properly documented and communicated.
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Importance:
 Efficiency and Productivity: IDEs provide a comprehensive environment for writing, editing, and debugging code. They integrate various tools like text editors, debuggers, and compilers into a single interface, allowing developers to focus on coding without switching between different applications.
@@ -168,7 +163,6 @@ Strategies:
 Logging and Monitoring: Implement robust logging and monitoring systems to detect and diagnose issues as they occur in real-time. This helps in quickly identifying and addressing problems.
 Automated Testing: Develop a comprehensive suite of automated tests, including unit tests, integration tests, and end-to-end tests. These tests help catch bugs early in the development process.
 Debugging Tools: Use advanced debugging tools and techniques to diagnose and fix issues efficiently. Tools like debuggers, profilers, and memory analyzers can be invaluable in tracking down difficult bugs.
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1. Unit Testing
 Definition: Unit testing involves testing individual components or units of the software, typically at the function or method level. The goal is to verify that each unit performs as expected in isolation from the rest of the system.
@@ -221,7 +215,6 @@ Achieving Specific Outcomes: In some cases, users may need the model to produce 
 5. Mitigating Model Limitations
 Addressing Biases: AI models may produce biased or inappropriate outputs based on the data they were trained on. Prompt engineering can help mitigate these issues by framing questions in a way that discourages biased responses or by including context that steers the model towards more balanced answers.
 Overcoming Knowledge Gaps: Models may not have up-to-date or comprehensive knowledge. By carefully crafting prompts that guide the model to focus on what it knows best, users can extract more useful and relevant information.
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of a Vague Prompt:
 "Tell me about technology."
